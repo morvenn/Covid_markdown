@@ -1,6 +1,7 @@
 ---
 title: COVID-19 vaccine - characteristics and types
 nav_order: 16
+has_children: true
 ---
 COVID-19 vaccine - characteristics and types
 ===========================================

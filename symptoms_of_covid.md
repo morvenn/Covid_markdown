@@ -1,6 +1,7 @@
 ---
 title: Symptoms of COVID-19
 nav_order: 3
+has_children: true
 ---
 
 Symptoms of COVID-19

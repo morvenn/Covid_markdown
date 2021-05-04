@@ -1,6 +1,7 @@
 ---
 title: What to do after contact with a person infected with COVID-19?
 nav_order: 11
+parent: Contact with a sick or infected person
 ---
 
 What to do after contact with a person infected with COVID-19?

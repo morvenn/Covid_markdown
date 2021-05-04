@@ -1,6 +1,7 @@
 ---
 title: Johnson & Johnson vaccine
 nav_order: 21
+parent: Adverse reactions
 ---
 
 Johnson & Johnson vaccine

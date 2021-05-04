@@ -1,6 +1,7 @@
 ---
 title: Astra-Zeneca vaccine (Vaxzevria)
 nav_order: 18
+parent: Adverse reactions
 ---
 Astra-Zeneca vaccine (Vaxzevria)
 ================================

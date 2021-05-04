@@ -1,6 +1,7 @@
 ---
 title: What if the contact was not close?
 nav_order: 9
+parent: Contact with a sick or infected person
 ---
 
 What if the contact was not close?

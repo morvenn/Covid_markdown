@@ -1,6 +1,7 @@
 ---
 title: Contact with a sick or infected person
 nav_order: 8
+has_children: true
 ---
 
 Contact with a sick or infected person

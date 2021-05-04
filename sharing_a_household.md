@@ -1,6 +1,7 @@
 ---
 title: What if someone you share a household with falls ill?
 nav_order: 14
+parent: If you become ill
 ---
 
 What if someone you share a household with falls ill?

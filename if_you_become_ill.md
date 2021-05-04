@@ -1,6 +1,7 @@
 ---
 title: If you become ill
 nav_order: 13
+has_children: true
 ---
 
 If you become ill

@@ -1,6 +1,7 @@
 ---
 title: Masks
 nav_order: 7
+parent: How not to get ill - safety rules
 ---
 
 Masks

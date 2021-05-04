@@ -1,6 +1,7 @@
 ---
 title: If you get request for a COVID-19 test
 nav_order: 12
+parent: Contact with a sick or infected person
 ---
 
 If you get request for a COVID-19 test

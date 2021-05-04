@@ -1,6 +1,7 @@
 ---
 title: Moderna vaccine
 nav_order: 19
+parent: Adverse reactions
 ---
 
 Moderna vaccine

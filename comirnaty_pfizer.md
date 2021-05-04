@@ -1,6 +1,7 @@
 ---
 title: COMIRNATY vaccine (from BioNTech and Pfizer)
 nav_order: 20
+parent: Adverse reactions
 ---
 
 COMIRNATY vaccine (from BioNTech and Pfizer)

@@ -1,6 +1,7 @@
 ---
 title: To prevent the spread of COVID-19
 nav_order: 6
+parent: How not to get ill - safety rules
 ---
 To prevent the spread of COVID-19
 =================================

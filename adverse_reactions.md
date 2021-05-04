@@ -1,6 +1,8 @@
 ---
 title: Adverse reactions
 nav_order: 17
+parent: COVID-19 vaccine - characteristics and types
+has_children: true
 ---
 
 Adverse reactions

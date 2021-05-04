@@ -1,6 +1,7 @@
 ---
 title: What if the contact was close?
 nav_order: 10
+parent: Contact with a sick or infected person
 ---
 
 What if the contact was close?
