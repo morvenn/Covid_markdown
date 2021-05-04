@@ -2,6 +2,7 @@
 title: Astra-Zeneca vaccine (Vaxzevria)
 nav_order: 18
 parent: Adverse reactions
+grand_parent: COVID-19 vaccine - characteristics and types
 ---
 Astra-Zeneca vaccine (Vaxzevria)
 ================================

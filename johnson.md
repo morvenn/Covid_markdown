@@ -2,6 +2,7 @@
 title: Johnson & Johnson vaccine
 nav_order: 21
 parent: Adverse reactions
+grand_parent: COVID-19 vaccine - characteristics and types
 ---
 
 Johnson & Johnson vaccine

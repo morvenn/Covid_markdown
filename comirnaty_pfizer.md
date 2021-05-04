@@ -2,6 +2,7 @@
 title: COMIRNATY vaccine (from BioNTech and Pfizer)
 nav_order: 20
 parent: Adverse reactions
+grand_parent: COVID-19 vaccine - characteristics and types
 ---
 
 COMIRNATY vaccine (from BioNTech and Pfizer)

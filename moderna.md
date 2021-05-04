@@ -2,6 +2,7 @@
 title: Moderna vaccine
 nav_order: 19
 parent: Adverse reactions
+grand_parent: COVID-19 vaccine - characteristics and types
 ---
 
 Moderna vaccine
