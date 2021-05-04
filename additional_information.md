@@ -1,6 +1,7 @@
 ---
 title: Additional information
 nav_order: 4
+parent: Symptoms of COVID-19
 ---
 
 Additional information
